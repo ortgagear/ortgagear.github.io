@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ortgagear.github.io/sitemap
+Sitemap: https://ortgagear.github.io/app/sitemap
+Sitemap: https://ortgagear.github.io/assets/sitemap
+Sitemap: https://ortgagear.github.io/css/sitemap
+Sitemap: https://ortgagear.github.io/includes/sitemap
+Sitemap: https://ortgagear.github.io/item/sitemap
+Sitemap: https://ortgagear.github.io/src/sitemap
